@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 /**
  * main - prints sizes of  data types
@@ -14,6 +13,4 @@ int main(void)
 	printf("Size of a float: %d byte(s)\n", (int)sizeof(float));
 	return (0);
 }
-=======
 
->>>>>>> 83f0aefc3ec5dbcac486d15815bba89aab9549e2
